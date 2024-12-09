@@ -391,11 +391,12 @@ ol {
 -----------------------*/
 
 .hero-section {
-	padding-top: 55px;
+	padding-top: 155px;
 }
 
 .hero-section .hero-text {
-	padding-top: 184px;
+	padding-top: 8px;
+	margin-bottom: 20px;
 }
 
 .hero-section .hero-text span {
@@ -410,8 +411,8 @@ ol {
 	color: #ffffff;
 	line-height: 72px;
 	font-weight: 600;
-	margin-top: 24px;
-	margin-bottom: 35px;
+	margin-top: 20px;
+	margin-bottom: 50px;
 }
 
 /*---------------------
