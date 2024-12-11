@@ -138,7 +138,7 @@ ol {
 }
 
 .spad {
-	padding-top: 100px;
+	padding-top: 50px;
 	padding-bottom: 100px;
 }
 
@@ -279,8 +279,8 @@ ol {
 
 .logo {
 	float: left;
-	padding-top: 36px;
-	padding-bottom: 37px;
+	padding-top: 16px;
+	padding-bottom: 4px;
 }
 
 .logo a {
@@ -485,7 +485,7 @@ ol {
 -----------------------*/
 
 .home-about-section {
-	padding-bottom: 90px;
+	padding-bottom: 25px;
 }
 
 .ha-pic {
@@ -884,7 +884,7 @@ ol {
 
 .latest-blog {
 	background: #f4f6f8;
-	padding-bottom: 160px;
+	padding-bottom: 30px;
 }
 
 .latest-item {
